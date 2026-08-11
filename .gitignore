@@ -1,0 +1,6 @@
+venv/
+data/raw_data/
+data/epochdata/*.fif
+data/epochdata/*.png
+__pycache__/
+*.pyc
